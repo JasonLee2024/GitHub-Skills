@@ -383,5 +383,5 @@ LoRA 微调 + vLLM 部署 + Hugging Face → 完整 MLOps 流水线
 
 ---
 
-> **在线阅读：** [https://jasonlee2024.github.io/GitHub-Skills/](https://jasonlee2024.github.io/GitHub-Skills/) — 知识库 GitHub Pages 站点（支持浅色/深色主题切换）
+> **在线阅读：** [https://jasonlee2024.github.io/GitHub-Skills/](https://jasonlee2024.github.io/GitHub-Skills/) — 知识库 GitHub Pages 站点（支持浅色/深色主题切换）  
 > **GitHub 仓库：** [github.com/JasonLee2024/GitHub-Skills](https://github.com/JasonLee2024/GitHub-Skills) — 欢迎 Star、Issue 和 PR
