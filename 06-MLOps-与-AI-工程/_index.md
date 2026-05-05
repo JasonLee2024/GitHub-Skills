@@ -1,3 +1,8 @@
+---
+title: 06 — MLOps & AI 工程
+nav_order: 0
+---
+
 # 06 — MLOps & AI 工程
 
 ## 本章节内容
