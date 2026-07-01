@@ -24,3 +24,6 @@ nav_order: 0
 - `knowledge-base-scaffold`, `obsidian`, `skill-driven-knowledge-base`
 - `subagent-driven-development`, `test-driven-development`
 - `systematic-debugging`, `plan`
+| [06](06-开源项目反馈Issue提交指南.md) | 开源项目反馈 Issue 提交指南 | 🌿 |
+
+> 最后更新：2026-07-02
